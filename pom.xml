@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.jlz.integracao.teams</groupId>
 	<artifactId>teams-webhook</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<name>Integração Microsoft Teams Webhook</name>
 	<description>Integração Microsoft Teams Webhook para Java</description>
 	<url>https://github.com/gpedro/slack-webhook</url>
