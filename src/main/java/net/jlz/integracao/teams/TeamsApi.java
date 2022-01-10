@@ -17,7 +17,6 @@ import com.google.gson.JsonObject;
 public class TeamsApi {
 
 	private static final String POST = "POST";
-	private static final String UTF_8 = "UTF-8";
 
 	private final String endPointWebHooks;
 	private final int timeout;
